@@ -1,9 +1,9 @@
 
 
 <h1 align="left">👋Hi there</h1>
-<h3 align="left">A frontend engineer in Tokyo</h3>
+<h3 align="left">I'm a frontend engineer based in Tokyo.</h3>
 
-- 🌱 I’m currently learning **react, next.js**
+- 🌱 I’m currently learning **react, next.js**Cancel changes
 - 📫 How to reach me **ayaka.nakamura0805@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
