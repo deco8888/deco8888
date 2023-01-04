@@ -1,8 +1,5 @@
 
 
-<h1 align="left">👋Hi there</h1>
-<h3 align="left">I'm a frontend engineer based in Tokyo.</h3>
-
 🌱 I’m currently learning **react, next.js, Webgl**
 
 <h3 align="left">Languages and Tools:</h3>
